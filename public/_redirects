@@ -1,1 +1,1 @@
-/auth/* https://next-auth-behind-cdn.vercel.app/:splat 200!
+/authjs/* https://next-auth-behind-cdn.vercel.app/:splat 200!
