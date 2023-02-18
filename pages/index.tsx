@@ -57,14 +57,14 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="/proxy-ed/domain"
+            href="/auth/"
             className={styles.card}
           >
             <h2 className={inter.className}>
               Login <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Go to proxy-ed next-auth app
+              Go to (proxy-ed) next-auth app
             </p>
           </a>
 
