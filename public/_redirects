@@ -1,1 +1,3 @@
 /authjs/* https://next-auth-behind-cdn.vercel.app/authjs/:splat 200!
+
+/*?code=:code&state=:state / 200!
