@@ -1,5 +1,5 @@
 {
-  "name": "next-auth-behind-cdn",
+  "name": "next-auth-with-cdn",
   "version": "0.1.0",
   "private": true,
   "scripts": {
