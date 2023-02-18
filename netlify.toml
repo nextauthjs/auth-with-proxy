@@ -1,3 +1,0 @@
-[[redirects]]
-  from = "/auth/*"
-  to = "next-auth-behind-cdn.vercel.app/:splat"
