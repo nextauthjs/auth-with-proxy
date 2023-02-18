@@ -57,7 +57,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="/auth/"
+            href="/authjs/"
             className={styles.card}
           >
             <h2 className={inter.className}>
