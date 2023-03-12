@@ -1,1 +1,2 @@
-/authjs/ https://next-auth-behind-proxy.vercel.app/authjs/? 200!
+/authjs/(\?|\?.*&)(state|code)= https://next-auth-behind-proxy.vercel.app/authjs/ 200!
+/authjs/* https://next-auth-behind-proxy.vercel.app/authjs/:splat 200!
